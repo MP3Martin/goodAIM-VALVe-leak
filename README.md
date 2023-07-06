@@ -7,3 +7,4 @@ Hours turned into minutes as I solved puzzles, got past computer-generated barri
 The leak offered a glimpse into a sinister dimension and was a fleeting synthesis of Valve's brilliance and Unity3D's versatility. I felt honored to have discovered this bizarre and alluring world.
 
 ## Download
+I have decided to share the file with everyone, so here it is: [**Download**](https://github.com/MP3Martin/goodAIM-VALVe-leak/releases/download/Download/VALVe.-.goodAIM.Unity3D.leak.by.MP3Martin.exe)
